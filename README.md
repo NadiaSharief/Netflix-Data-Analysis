@@ -6,7 +6,7 @@ we use Python Pandas & Python Matplotlib to analyze and answer business question
 
 We start by cleaning our data. Tasks during this section include:
 
-- Deleted duplicated rows using .duplicated() and .drop_duplicates()
+* Deleted duplicated rows using .duplicated() and .drop_duplicates()
 -Identify the null records using .isnull()
 -Represented null values through a heat map using sns.heatmap(data.isnull())
 -Selected data for a specific attribute or attributes
